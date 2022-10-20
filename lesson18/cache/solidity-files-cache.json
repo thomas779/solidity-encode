@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/finesto/ghq/github.com/thomas779/lesson18/contracts/CorrectSortedBallot.sol": {
+      "lastModificationDate": 1666291418362,
+      "contentHash": "3ffc5765b1412d7840700cd6ed4b2a5f",
+      "sourceName": "contracts/CorrectSortedBallot.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "CorrectSortedBallot"
+      ]
+    },
+    "/home/finesto/ghq/github.com/thomas779/lesson18/contracts/SortedBallot.sol": {
+      "lastModificationDate": 1666289239986,
+      "contentHash": "25208bcc59891a1a0a3b0404133747c6",
+      "sourceName": "contracts/SortedBallot.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "SortedBallot"
+      ]
+    }
+  }
+}
