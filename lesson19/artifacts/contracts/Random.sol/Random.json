@@ -1,0 +1,37 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Random",
+  "sourceName": "contracts/Random.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "getRandomNumber",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "randomNumber",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "tossCoin",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "heads",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b5060c78061001f6000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c8063b41e8cad146037578063dbdff2c1146052575b600080fd5b603d605f565b60405190151581526020015b60405180910390f35b6040514481526020016049565b6000606a6002446070565b15919050565b600082608c57634e487b7160e01b600052601260045260246000fd5b50069056fea264697066735822122000755798641895b795b5152499a9072c7d981481f0d0806ada7420b38eaed7e864736f6c63430008110033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060325760003560e01c8063b41e8cad146037578063dbdff2c1146052575b600080fd5b603d605f565b60405190151581526020015b60405180910390f35b6040514481526020016049565b6000606a6002446070565b15919050565b600082608c57634e487b7160e01b600052601260045260246000fd5b50069056fea264697066735822122000755798641895b795b5152499a9072c7d981481f0d0806ada7420b38eaed7e864736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
